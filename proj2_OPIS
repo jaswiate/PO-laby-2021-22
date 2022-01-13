@@ -1,0 +1,21 @@
+2 projekt na laboratoria z programowania obiektowego by Jakub Świątek
+
+Gra stworzona jako inspiracja z gry Zelda.
+2D action rpg.
+
+Gracz porusza się na mapie złożonej z kilku poziomów z różnymi elementami terenu pokonując przeciwników którzy staną na drodze.
+Gracz posiada na starcie 3 serduszka życia (6 hit pointów); otrzymanie obrażeń kontaktowych odbiera 0.5 serduszka, a dystansowych 1 serduszko życia.
+Na końcu mapy znajduje się boss ze specjalnymi atakami oraz większą ilością życia; jego pokonanie powoduje koniec gry oraz zwycięstwo naszego bohatera.
+Poruszając się po mapie natknąć się możemy na sekrety oraz znajdźki wypadające z przeciwników bądź kryjące się w ścianach poziomów.
+
+Rozkład mapy docelowo będzie inspirowany grą The Binding of Isaac.
+
+Gracz będzie miał do dyspozycji różne rodzaje ataków w zależności od trzymanego aktualnie przedmiotu.
+Różny rodzaj przeciwników będzie dysponował różną ilością zdrowia; melee więcej a ranged mniej.
+
+Oprawa graficzna oraz rodzaje i ataki przeciwników inspirowane liczbymi produkcjami; min. 
+- The Binding of Isaac Repentance
+- seria FNAF
+- Enter the Gungeon
+- seria gier Pokemon
+
